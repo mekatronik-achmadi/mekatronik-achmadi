@@ -3,7 +3,8 @@
 - 🔭 I’m currently working on several embedded electronic projects
 - 👯 I’m looking to collaborate on any project with good salary
 
-##
+## Language and Tools
+
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://gcc.gnu.org/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
 <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
