@@ -6,6 +6,7 @@
 ## Language and Tools
 
 <a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arch.png" align="center" alt="Arch-Linux" height="30px"/> </a>
+<a href="https://www.mozilla.org/en-US/firefox/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/firefox.svg" align="center" alt="Firefox" height="30px"/> </a>
 <a href="https://mate-desktop.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mate.svg" align="center" alt="Mate-Desktop" height="30px"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" alt="Bash" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://gcc.gnu.org/" target="_blank"><img align="center" alt="C" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
@@ -27,9 +28,6 @@
 <a href="https://gtk.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.svg" align="center" alt="Gtk" height="30px"/> </a>
 <a href="https://wxwidgets.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/wx.svg" align="center" alt="wxWidget" height="30px"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/rust.svg" align="center" alt="Rust" height="30px"/> </a>
-
-<br>
-
 <a href="https://www.qemu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qemu.png" align="center" alt="QEMU" height="30px"/> </a>
 <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vscode.svg" align="center" alt="VSCode" height="30px"/> </a>
 
