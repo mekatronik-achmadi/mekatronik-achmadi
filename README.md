@@ -5,6 +5,7 @@
 
 ## Language and Tools
 
+<a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arch.png" align="left" alt="Arch-Linux" height='30px'/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Bash" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://gcc.gnu.org/" target="_blank"><img align="left" alt="C" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
 <a href="https://isocpp.org/" target="_blank"><img align="left" alt="C++" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
