@@ -9,4 +9,4 @@
 
 ##
 ![Profile View Counter](https://komarev.com/ghpvc/?username=mekatronik-achmadi)
-[Github Follow](https://img.shields.io/github/followers/mekatronik-achmadi?label=Follow%20Me&style=social)](https://github.com/mekatronik-achmadi)
+[![Github Follow](https://img.shields.io/github/followers/mekatronik-achmadi?label=Follow%20Me&style=social)](https://github.com/mekatronik-achmadi)
