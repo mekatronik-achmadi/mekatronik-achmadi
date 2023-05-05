@@ -8,8 +8,5 @@
 - ⚡ Fun fact: I'm strongly fatphobic
 
 ##
-|
-<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Achmadi's github stats" /></a>
-|
-<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&theme=buefy&hide_border=true&rank_icon=github" /></a> |
+|<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Achmadi's github stats" /></a>|<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&theme=buefy&hide_border=true&rank_icon=github" /></a> |
 | ------------- | ------------- |
