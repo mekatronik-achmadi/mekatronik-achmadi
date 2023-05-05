@@ -21,6 +21,9 @@
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/esp32.png" align="center" alt="ESP32" height='30px'/> </a>
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/raspi.svg" align="center" alt="RaspberryPi" height='30px'/> </a>
 <a href="https://www.qt.io/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qt.svg" align="center" alt="Qt" height='25px'/> </a>
+<a href="https://gtk.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.svg" align="center" alt="Gtk" height='30px'/> </a>
+<a href="https://wxwidgets.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/wx.svg" align="center" alt="wxWidget" height='30px'/> </a>
+<a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/rust.svg" align="center" alt="Rust" height='30px'/> </a>
 
 ##
 |<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true" alt="Achmadi's github stats" /></a>|<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&hide_border=true" /></a> |
