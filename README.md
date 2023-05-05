@@ -19,6 +19,7 @@
 <a href="https://www.chibios.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/chibios.png" align="left" alt="ChibiOS/RT" height='30px'/> </a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/stm32.png" align="left" alt="STM32" height='30px'/> </a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/esp32.jpg" align="left" alt="ESP32" height='30px'/> </a>
+
 <a href="https://www.qt.io/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qt.svg" align="left" alt="Qt" height='30px'/> </a>
 
 <br>
