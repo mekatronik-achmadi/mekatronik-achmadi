@@ -15,7 +15,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="center" alt="Git" height="40px"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="center" alt="Docker" height='40px'/> </a>
 <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="center" alt="Vim" height="30px"/> </a>
-<a href="https://www.tug.org/texlive/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/tex.png" align="center" alt="TeXLive" height="30px"/> </a>
+<a href="https://www.tug.org/texlive/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/tex.svg" align="center" alt="TeXLive" height="30px"/> </a>
 <a href="https://www.kicad.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/kicad.png" align="center" alt="KiCAD" height="30px"/> </a>
 <a href="https://www.chibios.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/chibios.png" align="center" alt="ChibiOS/RT" height="30px"/> </a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/stm32.png" align="center" alt="STM32" height="30px"/> </a>
@@ -27,6 +27,7 @@
 <a href="https://gtk.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.svg" align="center" alt="Gtk" height="30px"/> </a>
 <a href="https://wxwidgets.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/wx.svg" align="center" alt="wxWidget" height="30px"/> </a>
 <a href="https://www.rust-lang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/rust.svg" align="center" alt="Rust" height="30px"/> </a>
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vscode.svg" align="center" alt="VSCode" height="30px"/> </a>
 
 ##
 |<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&rank_icon=github&show_icons=true&include_all_commits=true&hide_border=true" alt="Achmadi's github stats" /></a>|<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&hide_border=true" /></a> |
