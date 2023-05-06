@@ -15,12 +15,12 @@
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="Git" height="40px"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="left" alt="Docker" height='40px'/> </a>
-<a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="left" alt="Vim" height="30px"/> </a>
-<a href="https://github.com/neoclide/coc.nvim" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="left" alt="Vim-CoC" height="30px"/> </a>
-<a href="https://geany.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/geany.svg" align="left" alt="Geany" height="30px"/> </a>
 
 <br>
 
+<a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="left" alt="Vim" height="30px"/> </a>
+<a href="https://github.com/neoclide/coc.nvim" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="left" alt="Vim-CoC" height="30px"/> </a>
+<a href="https://geany.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/geany.svg" align="left" alt="Geany" height="30px"/> </a>
 <a href="https://www.tug.org/texlive/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/tex.svg" align="left" alt="TeXLive" height="30px"/> </a>
 <a href="https://www.kicad.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/kicad.png" align="left" alt="KiCAD" height="30px"/> </a>
 <a href="https://www.freecad.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/fcad.svg" align="left" alt="FreeCAD" height="30px"/> </a>
@@ -30,6 +30,9 @@
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/esp32.png" align="left" alt="ESP32" height="30px"/> </a>
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/raspi.svg" align="left" alt="RaspberryPi" height="30px"/> </a>
 <a href="https://lora-alliance.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lora.png" align="left" alt="LoRA" height="30px"/> </a>
+
+<br>
+
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arduino.svg" align="left" alt="Arduino" height="25px"/> </a>
 <a href="https://www.qt.io/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qt.svg" align="left" alt="Qt" height="25px"/> </a>
 <a href="https://gtk.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.svg" align="left" alt="Gtk" height="30px"/> </a>
