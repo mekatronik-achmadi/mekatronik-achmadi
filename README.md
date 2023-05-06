@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on several embedded electronic projects
 - 👯 I’m looking to collaborate on any project with good salary
 
-## Language and Tools
+## Language and Softwares
 
 <a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arch.png" align="center" alt="Arch-Linux" height="30px"/> </a>
 <a href="https://manjaro.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/manjaro.svg" align="center" alt="Manjaro" height="30px"/> </a>
@@ -14,9 +14,8 @@
 <a href="https://isocpp.org/" target="_blank"><img align="center" alt="C++" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
 <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
 <a href="https://nodejs.org" target="_blank"><img align="center" alt="Node.js" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
+
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="center" alt="Git" height="40px"/> </a>
-
-
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="center" alt="Docker" height='40px'/> </a>
 <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="center" alt="Vim" height="30px"/> </a>
 <a href="https://github.com/neoclide/coc.nvim" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="center" alt="Vim-CoC" height="30px"/> </a>
@@ -26,10 +25,9 @@
 <a href="https://www.freecad.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/fcad.svg" align="center" alt="FreeCAD" height="30px"/> </a>
 <a href="https://inkscape.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/inkscape.svg" align="center" alt="Inkscape" height="30px"/> </a>
 <a href="https://www.chibios.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/chibios.png" align="center" alt="ChibiOS/RT" height="30px"/> </a>
+
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/stm32.png" align="center" alt="STM32" height="30px"/> </a>
 <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/esp32.png" align="center" alt="ESP32" height="30px"/> </a>
-
-
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/raspi.svg" align="center" alt="RaspberryPi" height="30px"/> </a>
 <a href="https://lora-alliance.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lora.png" align="center" alt="LoRA" height="30px"/> </a>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arduino.svg" align="center" alt="Arduino" height="25px"/> </a>
