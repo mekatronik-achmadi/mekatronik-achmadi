@@ -16,7 +16,7 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="Git" height="40px"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/docker/docker.svg" align="left" alt="Docker" height='40px'/> </a>
 
-<br>
+##
 
 <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="left" alt="Vim" height="30px"/> </a>
 <a href="https://github.com/neoclide/coc.nvim" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="left" alt="Vim-CoC" height="30px"/> </a>
@@ -31,7 +31,7 @@
 <a href="https://www.raspberrypi.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/raspi.svg" align="left" alt="RaspberryPi" height="30px"/> </a>
 <a href="https://lora-alliance.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lora.png" align="left" alt="LoRA" height="30px"/> </a>
 
-<br>
+##
 
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arduino.svg" align="left" alt="Arduino" height="25px"/> </a>
 <a href="https://www.qt.io/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qt.svg" align="left" alt="Qt" height="25px"/> </a>
