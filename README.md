@@ -19,7 +19,7 @@
 <a href="https://github.com/neoclide/coc.nvim" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="left" alt="Vim-CoC" height="30px"/> </a>
 <a href="https://geany.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/geany.svg" align="left" alt="Geany" height="30px"/> </a>
 
----
+<br>
 
 <a href="https://www.tug.org/texlive/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/tex.svg" align="left" alt="TeXLive" height="30px"/> </a>
 <a href="https://www.kicad.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/kicad.png" align="left" alt="KiCAD" height="30px"/> </a>
