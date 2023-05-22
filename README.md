@@ -35,7 +35,7 @@
 <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/php.svg" align="center" alt="PHP" height="30px"/> </a>
 <a href="https://www.qemu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qemu.png" align="center" alt="QEMU" height="30px"/> </a>
 <a href="https://inkscape.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/inkscape.svg" align="center" alt="Inkscape" height="30px"/> </a>
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vscode.svg" align="center" alt="VSCode" height="30px"/> </a>
+<a href="https://vscodium.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vscodium.png" align="center" alt="VSCodium" height="30px"/> </a>
 
 
 ##
