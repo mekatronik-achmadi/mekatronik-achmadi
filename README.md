@@ -32,14 +32,13 @@
 <a href="https://www.qt.io/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qt.svg" align="center" alt="Qt" height="25px"/> </a>
 <a href="https://gtk.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.svg" align="center" alt="Gtk" height="30px"/> </a>
 <a href="https://wxwidgets.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/wx.svg" align="center" alt="wxWidget" height="30px"/> </a>
-<a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/php.svg" align="center" alt="PHP" height="30px"/> </a>
 <a href="https://www.qemu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qemu.png" align="center" alt="QEMU" height="30px"/> </a>
 <a href="https://inkscape.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/inkscape.svg" align="center" alt="Inkscape" height="30px"/> </a>
 <a href="https://vscodium.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vscodium.png" align="center" alt="VSCodium" height="30px"/> </a>
 
+## 
 
-##
-|<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&show_icons=true&include_all_commits=true&hide_border=true" alt="Achmadi's github stats" /></a>|<a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+| <a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&show_icons=true&include_all_commits=true&hide_border=true" alt="Achmadi's github stats" /></a> | <a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&hide_border=true" /></a> |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
