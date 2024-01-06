@@ -15,8 +15,8 @@
 <a href="https://www.iso-9899.info/wiki/Main_Page"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/c.svg" align="center" alt="C" height="40px"/> </a>
 <a href="https://isocpp.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/cpp.svg" align="center" alt="C++" height="40px"/> </a>
 <a href="https://gcc.gnu.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gcc.svg" align="center" alt="GCC" height="30px"/> </a>
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/python.svg" align="center" alt="Python" height="30px"/> </a>
-<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/node.svg" align="center" alt="NodeJS" height="30px"/> </a>
+<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/python.svg" align="center" alt="Python" height="40px"/> </a>
+<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/node.svg" align="center" alt="NodeJS" height="40px"/> </a>
 <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="center" alt="Vim" height="30px"/> </a>
 <a href="https://github.com/neoclide/coc.nvim" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="center" alt="Vim-CoC" height="30px"/> </a>
 <a href="https://geany.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/geany.svg" align="center" alt="Geany" height="30px"/> </a>
