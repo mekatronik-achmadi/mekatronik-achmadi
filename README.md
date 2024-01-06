@@ -6,23 +6,17 @@
 ## Language and Softwares
 
 <a href="https://archlinux.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arch.png" align="center" alt="Arch-Linux" height="30px"/> </a>
-
 <a href="https://www.msys2.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/msys2.png" align="center" alt="MSYS2" height="30px"/> </a>
-
 <a href="https://www.debian.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/debian.svg" align="center" alt="Debian" height="30px"/> </a>
-
 <a href="https://mate-desktop.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mate.svg" align="center" alt="Mate-Desktop" height="30px"/> </a>
-
-
-
-<a href="http://openbox.org" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/openbox.svg" align="center" alt="Openbox WM" height="30px"/> </a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" alt="Bash" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
-<a href="https://git-scm.com/" target="_blank"><img align="center" alt="Bash" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
-<a href="https://gcc.gnu.org/" target="_blank"><img align="center" alt="C" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
-<a href="https://isocpp.org/" target="_blank"><img align="center" alt="C++" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
-<a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="center" alt="Node.js" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="center" alt="Git" height="40px"/> </a>
+<a href="http://openbox.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/openbox.svg" align="center" alt="Openbox WM" height="30px"/> </a>
+<a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/bash.svg" align="center" alt="GNU Bash" height="30px"/> </a>
+<a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/git.svg" align="center" alt="Git SCM" height="30px"/> </a>
+<a href="https://www.iso-9899.info/wiki/Main_Page"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/c.svg" align="center" alt="C" height="30px"/> </a>
+<a href="https://isocpp.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/cpp.svg" align="center" alt="C++" height="30px"/> </a>
+<a href="https://gcc.gnu.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gcc.svg" align="center" alt="GCC" height="30px"/> </a>
+<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/python.svg" align="center" alt="Python" height="30px"/> </a>
+<a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/node.svg" align="center" alt="NodeJS" height="30px"/> </a>
 <a href="https://www.vim.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="center" alt="Vim" height="30px"/> </a>
 <a href="https://github.com/neoclide/coc.nvim" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="center" alt="Vim-CoC" height="30px"/> </a>
 <a href="https://geany.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/geany.svg" align="center" alt="Geany" height="30px"/> </a>
