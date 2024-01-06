@@ -17,6 +17,7 @@
 <a href="https://gcc.gnu.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gcc.svg" align="center" alt="GCC" height="30px"/> </a>
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/python.svg" align="center" alt="Python" height="40px"/> </a>
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/node.svg" align="center" alt="NodeJS" height="40px"/> </a>
+<a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/docker.png" align="center" alt="Docker" height="40px"/> </a>
 <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.svg" align="center" alt="Vim" height="30px"/> </a>
 <a href="https://github.com/neoclide/coc.nvim"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/coc.png" align="center" alt="Vim-CoC" height="30px"/> </a>
 <a href="https://midnight-commander.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mc.png" align="center" alt="Midnight Commander" height="30px"/> </a>
