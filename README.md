@@ -6,9 +6,11 @@
 ## Language and Softwares
 
 <a href="https://archlinux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arch.png" align="center" alt="Arch-Linux" height="30px"/> </a>
-<a href="https://manjaro.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/manjaro.svg" align="center" alt="Manjaro" height="30px"/> </a>
+<a href="https://www.msys2.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/msys2.png" align="center" alt="MSYS2" height="30px"/> </a>
 <a href="https://www.mozilla.org/en-US/firefox/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/firefox.svg" align="center" alt="Firefox" height="30px"/> </a>
+<a href="https://www.x.org/wiki/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/xorg.svg" align="center" alt="X Window" height="30px"/> </a>
 <a href="https://mate-desktop.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mate.svg" align="center" alt="Mate-Desktop" height="30px"/> </a>
+<a href="http://openbox.org" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/openbox.svg" align="center" alt="Openbox WM" height="30px"/> </a>
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img align="center" alt="Bash" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/bash/bash-colored.svg"></a>
 <a href="https://gcc.gnu.org/" target="_blank"><img align="center" alt="C" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c/c.svg"></a>
 <a href="https://isocpp.org/" target="_blank"><img align="center" alt="C++" height ="40px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/c%2B%2B/c%2B%2B.svg"></a>
@@ -33,10 +35,6 @@
 <a href="https://gtk.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.svg" align="center" alt="Gtk" height="30px"/> </a>
 <a href="https://wxwidgets.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/wx.svg" align="center" alt="wxWidget" height="30px"/> </a>
 <a href="https://www.qemu.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qemu.png" align="center" alt="QEMU" height="30px"/> </a>
-<a href="https://inkscape.org/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/inkscape.svg" align="center" alt="Inkscape" height="30px"/> </a>
-<a href="https://vscodium.com/" target="_blank"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vscodium.png" align="center" alt="VSCodium" height="30px"/> </a>
-
-## 
 
 | <a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&show_icons=true&include_all_commits=true&hide_border=true" alt="Achmadi's github stats" /></a> | <a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
