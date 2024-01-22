@@ -9,6 +9,7 @@
 <a href="https://www.msys2.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/msys2.png" align="center" alt="MSYS2" height="30px"/> </a>
 <a href="https://www.debian.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/debian.png" align="center" alt="Debian" height="30px"/> </a>
 <a href="https://mate-desktop.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mate.png" align="center" alt="Mate-Desktop" height="30px"/> </a>
+<a href="http://www.lxde.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lxde.png" align="center" alt="LXDE" height="30px"/> </a>
 <a href="http://openbox.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/openbox.png" align="center" alt="Openbox WM" height="30px"/> </a>
 <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/bash.png" align="center" alt="GNU Bash" height="30px"/> </a>
 <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/git.png" align="center" alt="Git SCM" height="30px"/> </a>
