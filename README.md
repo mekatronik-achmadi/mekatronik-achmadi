@@ -12,7 +12,7 @@
 <a href="http://openbox.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/openbox.png" align="center" alt="Openbox WM" height="30px"/> </a>
 <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/bash.png" align="center" alt="GNU Bash" height="30px"/> </a>
 <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/git.png" align="center" alt="Git SCM" height="30px"/> </a>
-<a href="https://www.markdownguide.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/markdown.svg" align="center" alt="Markdown" height="25px"/> </a>
+<a href="https://www.markdownguide.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/markdown.svg" align="center" alt="Markdown" height="20px"/> </a>
 <a href="https://www.iso-9899.info/wiki/Main_Page"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/c.png" align="center" alt="C" height="40px"/> </a>
 <a href="https://isocpp.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/cpp.png" align="center" alt="C++" height="40px"/> </a>
 <a href="https://gcc.gnu.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gcc.png" align="center" alt="GCC" height="30px"/> </a>
