@@ -30,7 +30,7 @@
 <a href="https://www.raspberrypi.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/raspi.png" align="center" alt="RaspberryPi" height="30px"/> </a>
 <a href="https://lora-alliance.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lora.png" align="center" alt="LoRA" height="30px"/> </a>
 <a href="https://www.chibios.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/chibios.png" align="center" alt="ChibiOS/RT" height="40px"/> </a>
-<a href="https://www.freertos.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/freertos.png" align="center" alt="FreeRTOS" height="25px"/> </a>
+<a href="https://www.freertos.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/freertos.png" align="center" alt="FreeRTOS" height="20px"/> </a>
 <a href="https://platformio.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/pio.png" align="center" alt="PlatformIO" height="30px"/> </a>
 <a href="https://www.qt.io/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qt.png" align="center" alt="Qt" height="25px"/> </a>
 <a href="https://gtk.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.png" align="center" alt="Gtk" height="30px"/> </a>
