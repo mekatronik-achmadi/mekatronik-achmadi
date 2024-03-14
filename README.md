@@ -7,6 +7,7 @@
 
 <a href="https://archlinux.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arch.png" align="center" alt="Arch-Linux" height="30px"/> </a>
 <a href="https://www.debian.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/debian.png" align="center" alt="Debian" height="30px"/> </a>
+<a href="https://www.msys2.org/"> <img src="https://gitlab.com/mekatronikachmadi/mekatronikachmadi/-/raw/main/gitlab_readme_icons/msys2.png" align="center" alt="MSYS2" height="30px"/> </a>
 <a href="https://mate-desktop.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mate.png" align="center" alt="Mate-Desktop" height="30px"/> </a>
 <a href="http://openbox.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/openbox.png" align="center" alt="Openbox WM" height="30px"/> </a>
 <a href="https://www.gnu.org/software/bash/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/bash.png" align="center" alt="GNU Bash" height="30px"/> </a>
@@ -20,7 +21,6 @@
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/node.png" align="center" alt="NodeJS" height="40px"/> </a>
 <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.png" align="center" alt="Vim" height="30px"/> </a>
 <a href="https://midnight-commander.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mc.png" align="center" alt="Midnight Commander" height="30px"/> </a>
-<a href="https://geany.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/geany.png" align="center" alt="Geany" height="30px"/> </a>
 <a href="https://www.tug.org/texlive/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/tex.png" align="center" alt="TeXLive" height="30px"/> </a>
 <a href="https://www.kicad.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/kicad.png" align="center" alt="KiCAD" height="30px"/> </a>
 <a href="https://www.freecad.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/fcad.png" align="center" alt="FreeCAD" height="30px"/> </a>
