@@ -16,7 +16,7 @@
 <a href="https://isocpp.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/cpp.png" align="center" alt="C++" height="40px"/> </a>
 <a href="https://gcc.gnu.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gcc.png" align="center" alt="GCC" height="30px"/> </a>
 <a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/python.png" align="center" alt="Python" height="40px"/> </a>
-<a href="https://www.rust-lang.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/rust.png" align="center" alt="Rust" height="40px"/> </a>
+<a href="https://www.rust-lang.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/rust.png" align="center" alt="Rust" height="30px"/> </a>
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/node.png" align="center" alt="NodeJS" height="40px"/> </a>
 <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.png" align="center" alt="Vim" height="30px"/> </a>
 <a href="https://midnight-commander.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/mc.png" align="center" alt="Midnight Commander" height="30px"/> </a>
