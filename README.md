@@ -27,8 +27,8 @@
 <a href="https://www.espressif.com/en/products/socs/esp32"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/esp32.png" align="center" alt="ESP32" height="30px"/> </a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/stm32.png" align="center" alt="STM32" height="40px"/> </a>
 <a href="https://www.raspberrypi.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/raspi.png" align="center" alt="RaspberryPi" height="30px"/> </a>
-<a href="https://lora-alliance.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lora.png" align="center" alt="LoRA" height="30px"/> </a>
-<a href="https://www.chibios.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/chibios.png" align="center" alt="ChibiOS/RT" height="40px"/> </a>
+<a href="https://lora-alliance.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lora.png" align="center" alt="LoRA" height="25px"/> </a>
+<a href="https://www.chibios.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/chibios.png" align="center" alt="ChibiOS/RT" height="35px"/> </a>
 <a href="https://www.freertos.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/freertos.png" align="center" alt="FreeRTOS" height="25px"/> </a>
 <a href="https://www.arduino.cc/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arduino.png" align="center" alt="Arduino" height="30px"/> </a>
 <a href="https://platformio.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/pio.png" align="center" alt="PlatformIO" height="30px"/> </a>
@@ -36,6 +36,7 @@
 <a href="https://gtk.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.png" align="center" alt="Gtk" height="30px"/> </a>
 <a href="https://wxwidgets.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/wx.png" align="center" alt="wxWidget" height="30px"/> </a>
 <a href="https://www.qemu.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qemu.png" align="center" alt="QEMU" height="25px"/> </a>
+<a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/docker.png" align="center" alt="Docker" height="30px"/> </a>
 <a href="https://code.visualstudio.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vscode.svg" align="center" alt="VSCode" height="30px"/> </a>
 
 | <a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mekatronik-achmadi&show_icons=true&include_all_commits=true&hide_border=true" alt="Achmadi's github stats" /></a> | <a href="https://github.com/mekatronik-achmadi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mekatronik-achmadi&layout=compact&hide_border=true" /></a> |
