@@ -15,7 +15,7 @@
 <a href="https://www.iso-9899.info/wiki/Main_Page"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/c.png" align="center" alt="C" height="40px"/> </a>
 <a href="https://isocpp.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/cpp.png" align="center" alt="C++" height="40px"/> </a>
 <a href="https://gcc.gnu.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gcc.png" align="center" alt="GCC" height="30px"/> </a>
-<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/python.png" align="center" alt="Python" height="40px"/> </a>
+<a href="https://www.python.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/python.png" align="center" alt="Python" height="35px"/> </a>
 <a href="https://www.rust-lang.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/rust.png" align="center" alt="Rust" height="30px"/> </a>
 <a href="https://nodejs.org"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/node.png" align="center" alt="NodeJS" height="40px"/> </a>
 <a href="https://www.vim.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/vim.png" align="center" alt="Vim" height="30px"/> </a>
@@ -24,13 +24,13 @@
 <a href="https://www.tug.org/texlive/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/tex.png" align="center" alt="TeXLive" height="30px"/> </a>
 <a href="https://www.kicad.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/kicad.png" align="center" alt="KiCAD" height="30px"/> </a>
 <a href="https://www.freecad.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/fcad.png" align="center" alt="FreeCAD" height="30px"/> </a>
-<a href="https://www.microchip.com/en-us/products/microcontrollers-and-microprocessors/8-bit-mcus/avr-mcus"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/avr.png" align="center" alt="AVR" height="30px"/> </a>
 <a href="https://www.espressif.com/en/products/socs/esp32"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/esp32.png" align="center" alt="ESP32" height="30px"/> </a>
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/stm32.png" align="center" alt="STM32" height="40px"/> </a>
 <a href="https://www.raspberrypi.com/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/raspi.png" align="center" alt="RaspberryPi" height="30px"/> </a>
 <a href="https://lora-alliance.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/lora.png" align="center" alt="LoRA" height="30px"/> </a>
 <a href="https://www.chibios.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/chibios.png" align="center" alt="ChibiOS/RT" height="40px"/> </a>
 <a href="https://www.freertos.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/freertos.png" align="center" alt="FreeRTOS" height="25px"/> </a>
+<a href="https://www.arduino.cc/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/arduino.png" align="center" alt="Arduino" height="30px"/> </a>
 <a href="https://platformio.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/pio.png" align="center" alt="PlatformIO" height="30px"/> </a>
 <a href="https://www.qt.io/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/qt.png" align="center" alt="Qt" height="25px"/> </a>
 <a href="https://gtk.org/"> <img src="https://raw.githubusercontent.com/mekatronik-achmadi/mekatronik-achmadi/main/github_readme_icons/gtk.png" align="center" alt="Gtk" height="30px"/> </a>
